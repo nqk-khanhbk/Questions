@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen quoc khanh",
+      "email": "khanhbk0102@gmail.com",
+      "password": "khanhdz",
+      "token": "kfkfhjrjfb"
+    },
+    {
+      "id": "2",
+      "fullName": "Nguyen quoc kha",
+      "email": "khanhb@gmail.com",
+      "password": "khanhdzf",
+      "token": "kfkfhjrjfbdddsw"
+    },
+    {
+      "id": "3",
+      "fullName": "Nguyen quc khanh",
+      "email": "khanhbk02@gmail.com",
+      "password": "khanhdzg",
+      "token": "kfkfhjrjfbrhfd3"
+    },
+    {
+      "id": "4",
+      "fullName": "Nguyen quoc khah",
+      "email": "khanhbk02@gmail.com",
+      "password": "khanhdzyh",
+      "token": "kfkfhjrjfbugftyyyy"
+    },
+    {
+      "id": "483c",
+      "fullName": "24a4023014",
+      "email": "khanh@gmail.com",
+      "password": "123",
+      "token": "eTXHlDXSqO6PRLipdCVU"
+    },
+    {
+      "id": "6cf9",
+      "fullName": "24a40230143",
+      "email": "khanhh@gmail.com",
+      "password": "123",
+      "token": "aPEd0qf52CVn4BagvbQL"
+    },
+    {
+      "id": "26d7",
+      "fullName": "khanhdz",
+      "email": "khanhh12@gmail.com",
+      "password": "123",
+      "token": "0jnn2Km1ab0sBiGGWDDY"
+    },
+    {
+      "id": "7bc2",
+      "fullName": "24a4023014",
+      "email": "k@gmail.com",
+      "password": "123",
+      "token": "LCpQKLtjPkIii6pkB2rB"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "HTML5"
+    },
+    {
+      "id": 2,
+      "name": "CSS3"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript"
+    },
+    {
+      "id": 4,
+      "name": "ReactJs"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "listId": 1,
+      "question": "Thẻ HTML nào được sử dụng để định nghĩa một phần của một tài liệu web mà có thể được cuộn, thường được sử dụng để tạo ra các khu vực có thể cuộn?",
+      "answers": [
+        "<div>",
+        "<section>",
+        "<article>",
+        "<aside>"
+      ]
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "question": "Tính năng nào sau đây không phải là tính năng mới trong HTML5?",
+      "answers": [
+        "Thẻ <canvas> cho việc vẽ đồ họa",
+        "Hỗ trợ video và audio với <video> và <audio>",
+        "Thẻ <marquee> cho văn bản cuộn tự động",
+        "Thẻ <progress> để hiển thị tiến trình"
+      ]
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "question": "Tính năng nào trong CSS3 cho phép bạn tạo ra các hiệu ứng chuyển động mượt mà giữa các trạng thái của phần tử?",
+      "answers": [
+        "Transitions",
+        "Animations",
+        "Transformations",
+        "Filters"
+      ]
+    },
+    {
+      "id": 4,
+      "listId": 3,
+      "question": "Trong JavaScript, phương thức nào được sử dụng để thêm một phần tử vào cuối mảng?",
+      "answers": [
+        "add()",
+        "push()",
+        "remove()",
+        "deploy()"
+      ]
+    },
+    {
+      "id": 5,
+      "listId": 4,
+      "question": "Trong React, điều gì được sử dụng để quản lý trạng thái của một thành phần?",
+      "answers": [
+        "useContext",
+        "useStates",
+        "useEffect",
+        "useNavigate"
+      ]
+    }
+  ]
+}
